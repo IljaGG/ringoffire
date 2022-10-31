@@ -1,14 +1,5 @@
 {
-  "targets": {
-    "ring-of-fire-e4e01": {
-      "hosting": {
-        "ringoffire": [
-          "ring-of-fire-e4e01"
-        ]
-      }
-    }
-  },
   "projects": {
-    "default": "ring-of-fire-3f983"
+    "default": "ring-of-fire-e4e01"
   }
 }
