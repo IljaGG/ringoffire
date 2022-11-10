@@ -9,6 +9,10 @@
     img{
         height: 100vh;
     }
+
+    @media (max-width: 960px) {
+        overflow: hidden;
+    }
 }
 
 .start-label-box {
